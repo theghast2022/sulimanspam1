@@ -7,11 +7,11 @@ client.on('ready', () => {
 
 
 client.on('ready', async() => {
-var server = "508255957629796372"; // ايدي السررفر
-var channel = "508255957629796374";//ايدي الروم
+var server = "509810592547340300"; // ايدي السررفر
+var channel = "509810592547340302";//ايدي الروم
     setInterval(()=>{
     client.guilds.get(server).channels.get(channel).send('Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , ')
     },305);
 })
 
-client.login('NTA3OTE2MjIyOTAyMzA0Nzc4.Dr8mwA.GLjv7n29VHP-vzYEnqKE-EgOK2Y');
+client.login('NTA5NzUwODY0MDc2OTk2NjIz.DsTNaw.ExosbJzEO3j6XoTMXYlYqAM2Oo8');
